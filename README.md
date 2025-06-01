@@ -1,6 +1,6 @@
-# 🗞️ NewsHub App
+# 🗞️ News App
 
-**NewsHub** is a sleek, Java + XML-based Android app that aggregates the latest news from top sources including **BBC**, **Times of India**, and **New York Times** — all in a seamless, user-friendly interface.
+**News** is a sleek, Java + XML-based Android app that aggregates the latest news from top sources including **BBC**, **Times of India**, and **New York Times** — all in a seamless, user-friendly interface.
 
 > 📱 Built with Android SDK (Java & XML)  
 > 🌐 Real-time updates via public APIs  
