@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_home"
+            android:icon="@drawable/icons8_bbc_50"
+            android:title="@string/menu_home"
+            android:menuCategory="secondary"/>
+        <item
+            android:id="@+id/nav_gallery"
+            android:icon="@drawable/icons8_real_time_news_64"
+            android:title="@string/menu_gallery"
+            android:menuCategory="secondary" />
+        <item
+            android:id="@+id/nav_slideshow"
+            android:icon="@drawable/new_york_times_50"
+            android:title="@string/menu_slideshow"
+            android:menuCategory="secondary" />
+    </group>
+
+    <item android:title="Coming Soon"
+        android:menuCategory="secondary">
+        <menu>
+            <item
+                android:id="@+id/foxnews"
+                android:icon="@drawable/icons8_fox_news_64"
+                android:title="FoxNews">
+            </item>
+        </menu>
+    </item>
+
+</menu>
+
+
